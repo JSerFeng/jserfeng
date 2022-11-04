@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Im Yu, welcome to my repo
+### Im Yu, a student. Nice to meet you!
 
 I am recently focusing on
 - swc
