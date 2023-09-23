@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ### Im Yu, a student. Nice to meet you!
 
 I am recently focusing on
