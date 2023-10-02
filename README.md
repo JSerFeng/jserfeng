@@ -1,9 +1,19 @@
 ## Hi there 👋
-### Im Yu, a student. Nice to meet you!
 
-I am recently focusing on
-- swc
+### Im Yu
+
+I am a sensitive and empathetic person.
+
+#### My best loved 📺
+
+- Peaky Blinders (Tommy Shelby !!!)
+- Breaking Bad (Yo yo yo biaaaaaaaatch)
+- Better Call Saul (Your honor 🧑‍⚖️⚖️)
+- The Walking Dead (earlier chapters ...)
+
+#### I am recently focusing on
 - modern-js
+- swc
 - rspack
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jserfeng&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
