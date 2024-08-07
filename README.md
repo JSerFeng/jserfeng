@@ -2,7 +2,7 @@
 
 ### Im Yu
 
-I am a sensitive and empathetic person.
+INF[PJ]
 
 #### My best loved 📺
 
