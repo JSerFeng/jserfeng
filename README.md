@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Im Yu
+### Im FY
 
 INF[PJ]
 
